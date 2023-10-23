@@ -1,1 +1,1 @@
-# SQL-Project
+# Finance Analytics of Atliq Hardware 
