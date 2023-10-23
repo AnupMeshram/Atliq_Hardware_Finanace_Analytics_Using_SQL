@@ -9,7 +9,7 @@ I have performed various sql queries to get insights. I have used stored procedu
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Step 1. Generate the report of individual product sales (aggregated on a monthly basis at the product level) for croma India customer for FY-2021 financial (fiscal year) so that it can track individual product sales and run further product analytics on it in excel. 
+Step 1). Generate the report of individual product sales (aggregated on a monthly basis at the product level) for croma India customer for FY-2021 financial (fiscal year) so that it can track individual product sales and run further product analytics on it in excel. 
 
 
 I have created a function called 'get_fiscal_year' and 'get_fiscal_quarter' to use it in the query to get the instant fiscal year. 
